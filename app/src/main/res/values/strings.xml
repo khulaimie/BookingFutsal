@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookingFutsal</string>
+    <string name="action_deletes">Hapus Semua</string>
+    <string name="hint_word">Team...</string>
+    <string name="hint_jam">Time...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Harap Isi Form</string>
+</resources>
